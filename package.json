@@ -1,0 +1,11 @@
+{
+  "name": "nce_latest",
+  "version": "1.0.0",
+  "description": "IT 410 final project and project for node content management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Sorensen",
+  "license": "ISC"
+}
