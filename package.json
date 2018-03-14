@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Josh Sorensen",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statman9/nce_latest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/statman9/nce_latest/issues"
+  },
+  "homepage": "https://github.com/statman9/nce_latest#readme"
 }
